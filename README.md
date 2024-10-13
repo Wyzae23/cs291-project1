@@ -1,1 +1,3 @@
-# cs291-project1
+# CS291 Project 1
+
+* Ruby Koans Tutorial
